@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "common.h": "c",
+        "config.h": "c",
+        "flash.h": "c",
+        "ml2.h": "c",
+        "itop_4412_android.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
